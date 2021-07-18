@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+"GAJG7TQMKFPW22RNFVD5K5MXQC7KCNNPVVYBOZ5357JWDA7BNGGJHUPN"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Cryptocurrency"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/X3zWgxL/tronchain.png"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="Wrapped Stellar"
+ORG_URL="https://www.wrappedstellar.org"
+ORG_DESCRIPTION="WXLM brings greater liquidity to the XLM ecosystem including decentralized exchanges (DEXs) and financial applications. Today, the majority of trading volume takes place on centralized exchanges with lumen. WXLM changes that, bringing lumen’s liquidity to DEXs and making it possible to use lumen for token trades."
+ORG_TWITTER="@WRAPPEDSTELLAR"
+ORG_LOGO="https://i.ibb.co/VSXWBys/wXLM.png"
+ORG_OFFICIAL_EMAIL="wrappedstellar2@gmail.com"
 
 
 [[CURRENCIES]]
-code="TronChain"
-issuer="GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+code="wXLM"
+issuer="GAJG7TQMKFPW22RNFVD5K5MXQC7KCNNPVVYBOZ5357JWDA7BNGGJHUPN"
 anchor_asset="false"
-name="TronChain"
-desc="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
-image="https://i.ibb.co/X3zWgxL/tronchain.png"
+name="Wrapped Stellar"
+desc="WXLM brings greater liquidity to the XLM ecosystem including decentralized exchanges (DEXs) and financial applications. Today, the majority of trading volume takes place on centralized exchanges with lumen. WXLM changes that, bringing lumen’s liquidity to DEXs and making it possible to use lumen for token trades."
+image="https://i.ibb.co/VSXWBys/wXLM.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#TronChain was issued using the open and inclusive Stellar blockchain network.
+#WrappedStellar was issued using the open and inclusive Stellar blockchain network.
